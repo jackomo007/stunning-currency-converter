@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jealc\\source\\repos\\MoneyConverter_Static\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D52DC770-3A0E-4FFF-BBA2-FF8363EABC35}|MoneyConverter_Static\\MoneyConverter_Static.csproj|c:\\users\\jealc\\source\\repos\\moneyconverter_static\\moneyconverter_static\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52DC770-3A0E-4FFF-BBA2-FF8363EABC35}|MoneyConverter_Static\\MoneyConverter_Static.csproj|solutionrelative:moneyconverter_static\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52DC770-3A0E-4FFF-BBA2-FF8363EABC35}|MoneyConverter_Static\\MoneyConverter_Static.csproj|c:\\users\\jealc\\source\\repos\\moneyconverter_static\\moneyconverter_static\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D52DC770-3A0E-4FFF-BBA2-FF8363EABC35}|MoneyConverter_Static\\MoneyConverter_Static.csproj|solutionrelative:moneyconverter_static\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52DC770-3A0E-4FFF-BBA2-FF8363EABC35}|MoneyConverter_Static\\MoneyConverter_Static.csproj|c:\\users\\jealc\\source\\repos\\moneyconverter_static\\moneyconverter_static\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D52DC770-3A0E-4FFF-BBA2-FF8363EABC35}|MoneyConverter_Static\\MoneyConverter_Static.csproj|solutionrelative:moneyconverter_static\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\jealc\\source\\repos\\MoneyConverter_Static\\MoneyConverter_Static\\App.xaml",
+              "RelativeDocumentMoniker": "MoneyConverter_Static\\App.xaml",
+              "ToolTip": "C:\\Users\\jealc\\source\\repos\\MoneyConverter_Static\\MoneyConverter_Static\\App.xaml",
+              "RelativeToolTip": "MoneyConverter_Static\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-17T18:58:47.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\jealc\\source\\repos\\MoneyConverter_Static\\MoneyConverter_Static\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MoneyConverter_Static\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\jealc\\source\\repos\\MoneyConverter_Static\\MoneyConverter_Static\\MainWindow.xaml",
+              "RelativeToolTip": "MoneyConverter_Static\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-17T18:57:10.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jealc\\source\\repos\\MoneyConverter_Static\\MoneyConverter_Static\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MoneyConverter_Static\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\jealc\\source\\repos\\MoneyConverter_Static\\MoneyConverter_Static\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MoneyConverter_Static\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:57:05.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
